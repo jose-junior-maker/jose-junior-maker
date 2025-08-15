@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Web Developer with two years of experience developing and maintaining enterprise applications. Working with Java, Spring Boot, REST APIs, Oracle databases, and Git versioning. Currently, I'm deepening my knowledge of front-end development with React.js to become a full-stack developer. Proactive, focused on delivering value and good coding practices.
+Desenvolvedor Java Web com 2 anos de experiência no desenvolvimento e manutenção de aplicações corporativas. Atuando com Java, Spring Boot, APIs REST, banco de dados Oracle e versionamento com Git. Atualmente aprofundando conhecimentos em desenvolvimento front-end com React.js para me tornar um desenvolvedor fullstack. Proativo, com foco em entrega de valor e boas práticas de código.
 
 
 ## 🌐 Socials:
